@@ -18,7 +18,15 @@ Not ready on melpa yet.
                         :files ("*.el" "voice")))
 ```
 
-## Use Straight
+## Use straight
+```emacs-lisp
+(straight-use-package
+ '(rainbow-fart :host  github
+                :repo  "DogLooksGood/rainbow-fart.el"
+                :files ("*.el" "voice")))
+```
+
+## Use Straight with use-package
 ```emacs-lisp
 (use-package rainbow-fart
   :straight (rainbow-fart :type git
