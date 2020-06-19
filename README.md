@@ -15,7 +15,7 @@ Not ready on melpa yet.
 (use-package rainbow-fart
   :quelpa (rainbow-fart :fetcher github
                         :repo "DogLooksGood/rainbow-fart.el"
-                        :files ("*.el" "voices")))
+                        :files ("*.el" "voice")))
 ```
 
 ## Use Straight
@@ -24,7 +24,7 @@ Not ready on melpa yet.
   :straight (rainbow-fart :type git
                           :host github
                           :repo "DogLooksGood/rainbow-fart.el"
-                          :files ("*.el" "voices")))
+                          :files ("*.el" "voice")))
 ```
 
 Enable by activate `rainbow-fart-mode`.
