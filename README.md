@@ -1,6 +1,10 @@
 # rainbow-fart.el
 
-Rainbow Fart for Emacs. Ported from [[vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)].
+Rainbow Fart for Emacs. Ported from [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart).
+
+# Deprecated
+
+In favor of [emacs-rainbow-fart](https://github.com/stardiviner/emacs-rainbow-fart).
 
 # Requirements
 
@@ -42,5 +46,5 @@ Enable by activate `rainbow-fart-mode`.
 ```
 
 # LICENSE
-Please Note, voice files (in voice directory) are copy from [[vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart)], under [[MIT license](https://github.com/SaekiRaku/vscode-rainbow-fart/blob/master/LICENSE)].
+Please Note, voice files (in voice directory) are copy from [vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart), under [MIT license](https://github.com/SaekiRaku/vscode-rainbow-fart/blob/master/LICENSE).
 
